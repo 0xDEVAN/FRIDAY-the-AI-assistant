@@ -5,7 +5,7 @@ import random
 import time
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 model_id = 'gpt-3.5-turbo'
 
 # Initialize the text-to-speech engine
