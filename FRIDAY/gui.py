@@ -1,5 +1,5 @@
 import tkinter as tk
-from lib.chat_gpt_communication import start_conversation
+from chat_gpt_communication import start_conversation
 from tkinter import messagebox
 from tkinter import simpledialog
 import sys
